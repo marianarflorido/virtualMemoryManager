@@ -1,106 +1,139 @@
 # Parâmetros
-pageSize = 512
+pageSize = 256 # 2^8 -->8 bits de deslocamento 
 tlbSize = 16
-frames = 128
-physicalMemorySize = frames * pageSize
+# Valor do frameCount pequeno para forçar politica FIFO
+frameCount = 16 # quantidade de frames na memoria fisica
+pageCount = 256 # 2^(16-8) --> 16 são os bits de endereco e 8 são do deslocamento
 
-# Arquivos
-address = 'addresses.txt'
-backingStore = 'BACKING_STORE.bin'
+# Arquivos 
+backingStoreFile = "BACKING_STORE.bin"
+addressesFile = "addresses.txt"
 
-# Estruturas de dados
-pageTable = [-1] * 128 
-physicalMemory = [None] * frames  
-frameQueue = []  # FIFO: ordem dos frames ocupados
-tlb = []  # armazena (pageNumber, frameNumber)
+# Memória física --> lista de quadros 
+physicalMemory = [None] * frameCount
+# Tabela de páginas (indice --> número da página  valor --> número do quadro)
+pageTable = [-1] * pageCount
+# TLB -- (numeroPagina, numeroQuadro)
+tlb = []
+# FIFO
+frameQueue = []
 
 # Estatísticas
-totalAccess = 0
+totalAddresses = 0
 pageFaults = 0
 tlbHits = 0
 
-# FIFO
-def fifo(data, new, lim):
-    if len(data) >= lim:
+
+def fifo(data, newItem, limit):
+    if len(data) >= limit:
         data.pop(0)
-    data.append(new)
+    data.append(newItem)
 
-# Lê BACKING_STORE.bin
-def loadBackingStore(pageNumber):
-    with open(backingStore, 'rb') as f:
-        f.seek(pageNumber * pageSize)
-        return f.read(pageSize)
+def loadFromBackingStore(pageNumber):
+   
+    print(f"# Carregando página {pageNumber} do '{backingStoreFile}'.")
+    try:
+        with open(backingStoreFile, "rb") as f:
+            f.seek(pageNumber * pageSize)
+            return f.read(pageSize)
+    except IOError:
+        print(f"ERRO: Não foi possível ler o arquivo '{backingStoreFile}'.")
+        exit()
 
-# Traduz endereço virtual
-def translateAddress(virtualAddress):
-    global totalAccess, pageFaults, tlbHits
+def translateAddress(logicalAddress):
+   
+    global totalAddresses, pageFaults, tlbHits
 
-    totalAccess += 1
-    virtualPageNumber = virtualAddress // pageSize
-    offset = virtualAddress % pageSize
+    totalAddresses += 1
+    pageNumber = logicalAddress // pageSize
+    offset = logicalAddress % pageSize
 
-    print(f"\nAcesso #{totalAccess}")
-    print(f"Endereço virtual: {virtualAddress}")
-    print(f"Número da página: {virtualPageNumber}   Deslocamento: {offset}")
+    print(f"\n--- Traduzindo Endereço Lógico: {logicalAddress} ---")
+    print(f"Número da Página: {pageNumber}   Deslocamento: {offset}")
 
-    # Verificar TLB
-    for pageNumber, frameNumber in tlb:
-        if pageNumber == virtualPageNumber:
+    # Verificar a TLB
+    frameNumber = -1
+    for tlbPage, tlbFrame in tlb:
+        if tlbPage == pageNumber:
+            frameNumber = tlbFrame
             tlbHits += 1
-            value = physicalMemory[frameNumber][offset]
-            physicalAddress = (frameNumber * pageSize) + offset
-            print(f"# TLB HIT (quadro {frameNumber})")
-            print(f"# Endereço físico: {physicalAddress}, Valor: {value}")
-            return
+            print(f"# TLB Hit --> Página {pageNumber} está no quadro {frameNumber}.")
+            break
+    
+    if frameNumber == -1:
 
-    print("# TLB MISS")
+        print("# TLB Miss")
+        
+        # Verificar a tabela de páginas
+        frameNumber = pageTable[pageNumber]
 
-    # Verificar Tabela de Páginas
-    frame = pageTable[virtualPageNumber]
-    if frame == -1:
-        print("# PAGE FAULT")
-        pageFaults += 1
+        if frameNumber == -1:
+            print("# FALHA DE PÁGINA")
+            
+            pageFaults += 1
+            pageContent = loadFromBackingStore(pageNumber) #Recebe conteudo de backing store
 
-        # Substituição FIFO se memória cheia
-        if len(frameQueue) >= frames:
-            oldFrame = frameQueue.pop(0)
-            oldPage = pageTable.index(oldFrame)
-            pageTable[oldPage] = -1
-            print(f"# Substituindo página {oldPage} do frame {oldFrame}")
-            frame = oldFrame
+            # FIFO -- se a memória estiver cheia
+            if len(frameQueue) >= frameCount:
+                victimFrame = frameQueue.pop(0)
+                # Encontra a página que estava usando o quadro do alvo
+                oldPage = pageTable.index(victimFrame)
+                pageTable[oldPage] = -1 # Invalida a entrada da página antiga
+                print(f"# Memória cheia. Substituindo página {oldPage} no quadro {victimFrame}.")
+                frameNumber = victimFrame
+            else:
+                # Usa o próximo quadro livre
+                frameNumber = len(frameQueue)
+
+            # Carrega a nova página na memória física e atualiza as estruturas
+            physicalMemory[frameNumber] = pageContent
+            pageTable[pageNumber] = frameNumber
+            frameQueue.append(frameNumber)
+            print(f"# Página {pageNumber} carregada no quadro {frameNumber}.")
         else:
-            frame = len(frameQueue)
+            print(f"# SUCESSO --> Página {pageNumber} está no quadro {frameNumber}.")
 
-        # Carregar conteúdo do disco
-        content = loadBackingStore(virtualPageNumber)
-        physicalMemory[frame] = bytearray(content)
-        pageTable[virtualPageNumber] = frame
-        frameQueue.append(frame)
-        print(f"# Página {virtualPageNumber} carregada no frame {frame}")
-    else:
-        print(f"# Página {virtualPageNumber} já está na memória (frame {frame})")
+        # Atualiza a TLB 
+        fifo(tlb, (pageNumber, frameNumber), tlbSize)
+        print(f"# Entrada [Página: {pageNumber}, Quadro: {frameNumber}] atualizada na TLB.")
 
-    # Atualizar TLB (FIFO)
-    fifo(tlb, (virtualPageNumber, frame), tlbSize)
+    physicalAddress = (frameNumber * pageSize) + offset
 
-    # Gerar endereço físico e exibir valor
-    physicalAddress = (frame * pageSize) + offset
-    value = physicalMemory[frame][offset]
-    print(f"# Endereço físico: {physicalAddress}, Valor: {value}")
+    # O valor é lido como um inteiro
+    byteValue = int(physicalMemory[frameNumber][offset])
+
+    print("\n--- RESULTADO DA TRADUÇÃO ---")
+    print(f"Endereço Lógico: {logicalAddress}")
+    print(f"Endereço Físico: {physicalAddress}")
+    print(f"Valor do Byte: {byteValue}")
+    print("-----------------------------\n")
 
 def main():
-    with open(address, 'r') as f:
-        for linha in f:
-            virtualAddress = int(linha.strip())
-            translateAddress(virtualAddress)
+    
+    try:
+        with open(addressesFile, 'r') as f:
+            addresses = [int(line.strip()) for line in f if line.strip()]
+        print(f"INFO: {len(addresses)} endereços lógicos carregados de '{addressesFile}'.")
+    except FileNotFoundError:
+        print(f"ERRO: Arquivo '{addressesFile}' não encontrado.")
+        return
+    except ValueError:
+        print(f"ERRO: Arquivo '{addressesFile}' contém dados inválidos.")
+        return
 
-    # Estatísticas finais
-    print("\n===== ESTATÍSTICAS FINAIS =====")
-    print(f"Total de endereços traduzidos: {totalAccess}")
-    print(f"Total de page faults: {pageFaults}")
-    print(f"Taxa de page faults: {pageFaults / totalAccess * 100:.2f}%")
-    print(f"Total de TLB hits: {tlbHits}")
-    print(f"Taxa de acertos da TLB: {tlbHits / totalAccess * 100:.2f}%")
+    for address in addresses:
+        translateAddress(address)
+
+    # Exibe estatísticas finais
+    print("\n========== ESTATÍSTICAS ==========")
+    if totalAddresses > 0:
+        pageFaultRate = (pageFaults / totalAddresses) * 100
+        tlbHitRate = (tlbHits / totalAddresses) * 100
+        print(f"Total de Endereços Traduzidos: {totalAddresses}")
+        print(f"Total de Faltas de Página: {pageFaults} ({pageFaultRate:.2f}%)")
+        print(f"Total de Acertos na TLB: {tlbHits} ({tlbHitRate:.2f}%)")
+    else:
+        print("Nenhum endereço foi traduzido.")
 
 if __name__ == "__main__":
     main()
