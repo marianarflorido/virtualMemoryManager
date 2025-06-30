@@ -129,9 +129,9 @@ def main():
     if totalAddresses > 0:
         pageFaultRate = (pageFaults / totalAddresses) * 100
         tlbHitRate = (tlbHits / totalAddresses) * 100
-        print(f"Total de Endereços Traduzidos: {totalAddresses}")
-        print(f"Total de Faltas de Página: {pageFaults} ({pageFaultRate:.2f}%)")
-        print(f"Total de Acertos na TLB: {tlbHits} ({tlbHitRate:.2f}%)")
+        print(f"Total de endereços traduzidos: {totalAddresses}")
+        print(f"Total de falhas de páginas: {pageFaults} ({pageFaultRate:.2f}%)")
+        print(f"Total de acertos na TLB: {tlbHits} ({tlbHitRate:.2f}%)")
     else:
         print("Nenhum endereço foi traduzido.")
 

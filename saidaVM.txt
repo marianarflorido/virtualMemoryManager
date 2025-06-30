@@ -1,0 +1,4705 @@
+INFO: 300 endereços lógicos carregados de 'addresses.txt'.
+
+--- Traduzindo Endereço Lógico: 46717 ---
+Número da Página: 182   Deslocamento: 125
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 182 do 'BACKING_STORE.bin'.
+# Página 182 carregada no quadro 0.
+# Entrada [Página: 182, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 46717
+Endereço Físico: 125
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 63243 ---
+Número da Página: 247   Deslocamento: 11
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 247 do 'BACKING_STORE.bin'.
+# Página 247 carregada no quadro 1.
+# Entrada [Página: 247, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 63243
+Endereço Físico: 267
+Valor do Byte: 194
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 11232 ---
+Número da Página: 43   Deslocamento: 224
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 43 do 'BACKING_STORE.bin'.
+# Página 43 carregada no quadro 2.
+# Entrada [Página: 43, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 11232
+Endereço Físico: 736
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 57876 ---
+Número da Página: 226   Deslocamento: 20
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 226 do 'BACKING_STORE.bin'.
+# Página 226 carregada no quadro 3.
+# Entrada [Página: 226, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 57876
+Endereço Físico: 788
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 10060 ---
+Número da Página: 39   Deslocamento: 76
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 39 do 'BACKING_STORE.bin'.
+# Página 39 carregada no quadro 4.
+# Entrada [Página: 39, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 10060
+Endereço Físico: 1100
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 61982 ---
+Número da Página: 242   Deslocamento: 30
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 242 do 'BACKING_STORE.bin'.
+# Página 242 carregada no quadro 5.
+# Entrada [Página: 242, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 61982
+Endereço Físico: 1310
+Valor do Byte: 60
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 60779 ---
+Número da Página: 237   Deslocamento: 107
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 237 do 'BACKING_STORE.bin'.
+# Página 237 carregada no quadro 6.
+# Entrada [Página: 237, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 60779
+Endereço Físico: 1643
+Valor do Byte: 90
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 49801 ---
+Número da Página: 194   Deslocamento: 137
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 194 do 'BACKING_STORE.bin'.
+# Página 194 carregada no quadro 7.
+# Entrada [Página: 194, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 49801
+Endereço Físico: 1929
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 30034 ---
+Número da Página: 117   Deslocamento: 82
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 117 do 'BACKING_STORE.bin'.
+# Página 117 carregada no quadro 8.
+# Entrada [Página: 117, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 30034
+Endereço Físico: 2130
+Valor do Byte: 29
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 54437 ---
+Número da Página: 212   Deslocamento: 165
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 212 do 'BACKING_STORE.bin'.
+# Página 212 carregada no quadro 9.
+# Entrada [Página: 212, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 54437
+Endereço Físico: 2469
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 33826 ---
+Número da Página: 132   Deslocamento: 34
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 132 do 'BACKING_STORE.bin'.
+# Página 132 carregada no quadro 10.
+# Entrada [Página: 132, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 33826
+Endereço Físico: 2594
+Valor do Byte: 33
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 57636 ---
+Número da Página: 225   Deslocamento: 36
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 225 do 'BACKING_STORE.bin'.
+# Página 225 carregada no quadro 11.
+# Entrada [Página: 225, Quadro: 11] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 57636
+Endereço Físico: 2852
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 5805 ---
+Número da Página: 22   Deslocamento: 173
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 22 do 'BACKING_STORE.bin'.
+# Página 22 carregada no quadro 12.
+# Entrada [Página: 22, Quadro: 12] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 5805
+Endereço Físico: 3245
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 3086 ---
+Número da Página: 12   Deslocamento: 14
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 12 do 'BACKING_STORE.bin'.
+# Página 12 carregada no quadro 13.
+# Entrada [Página: 12, Quadro: 13] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 3086
+Endereço Físico: 3342
+Valor do Byte: 3
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 54060 ---
+Número da Página: 211   Deslocamento: 44
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 211 do 'BACKING_STORE.bin'.
+# Página 211 carregada no quadro 14.
+# Entrada [Página: 211, Quadro: 14] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 54060
+Endereço Físico: 3628
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 62796 ---
+Número da Página: 245   Deslocamento: 76
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 245 do 'BACKING_STORE.bin'.
+# Página 245 carregada no quadro 15.
+# Entrada [Página: 245, Quadro: 15] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 62796
+Endereço Físico: 3916
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 43442 ---
+Número da Página: 169   Deslocamento: 178
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 169 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 182 no quadro 0.
+# Página 169 carregada no quadro 0.
+# Entrada [Página: 169, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 43442
+Endereço Físico: 178
+Valor do Byte: 42
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 572 ---
+Número da Página: 2   Deslocamento: 60
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 2 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 247 no quadro 1.
+# Página 2 carregada no quadro 1.
+# Entrada [Página: 2, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 572
+Endereço Físico: 316
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 24174 ---
+Número da Página: 94   Deslocamento: 110
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 94 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 43 no quadro 2.
+# Página 94 carregada no quadro 2.
+# Entrada [Página: 94, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 24174
+Endereço Físico: 622
+Valor do Byte: 23
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 662 ---
+Número da Página: 2   Deslocamento: 150
+# TLB Hit --> Página 2 está no quadro 1.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 662
+Endereço Físico: 406
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 18578 ---
+Número da Página: 72   Deslocamento: 146
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 72 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 226 no quadro 3.
+# Página 72 carregada no quadro 3.
+# Entrada [Página: 72, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 18578
+Endereço Físico: 914
+Valor do Byte: 18
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 24800 ---
+Número da Página: 96   Deslocamento: 224
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 96 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 39 no quadro 4.
+# Página 96 carregada no quadro 4.
+# Entrada [Página: 96, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 24800
+Endereço Físico: 1248
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 3620 ---
+Número da Página: 14   Deslocamento: 36
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 14 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 242 no quadro 5.
+# Página 14 carregada no quadro 5.
+# Entrada [Página: 14, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 3620
+Endereço Físico: 1316
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 40507 ---
+Número da Página: 158   Deslocamento: 59
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 158 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 237 no quadro 6.
+# Página 158 carregada no quadro 6.
+# Entrada [Página: 158, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 40507
+Endereço Físico: 1595
+Valor do Byte: 142
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 63058 ---
+Número da Página: 246   Deslocamento: 82
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 246 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 194 no quadro 7.
+# Página 246 carregada no quadro 7.
+# Entrada [Página: 246, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 63058
+Endereço Físico: 1874
+Valor do Byte: 61
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 12087 ---
+Número da Página: 47   Deslocamento: 55
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 47 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 117 no quadro 8.
+# Página 47 carregada no quadro 8.
+# Entrada [Página: 47, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 12087
+Endereço Físico: 2103
+Valor do Byte: 205
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 30372 ---
+Número da Página: 118   Deslocamento: 164
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 118 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 212 no quadro 9.
+# Página 118 carregada no quadro 9.
+# Entrada [Página: 118, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 30372
+Endereço Físico: 2468
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 24605 ---
+Número da Página: 96   Deslocamento: 29
+# TLB Hit --> Página 96 está no quadro 4.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 24605
+Endereço Físico: 1053
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 18666 ---
+Número da Página: 72   Deslocamento: 234
+# TLB Hit --> Página 72 está no quadro 3.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 18666
+Endereço Físico: 1002
+Valor do Byte: 18
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 39177 ---
+Número da Página: 153   Deslocamento: 9
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 153 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 132 no quadro 10.
+# Página 153 carregada no quadro 10.
+# Entrada [Página: 153, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 39177
+Endereço Físico: 2569
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 59760 ---
+Número da Página: 233   Deslocamento: 112
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 233 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 225 no quadro 11.
+# Página 233 carregada no quadro 11.
+# Entrada [Página: 233, Quadro: 11] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 59760
+Endereço Físico: 2928
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 1621 ---
+Número da Página: 6   Deslocamento: 85
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 6 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 22 no quadro 12.
+# Página 6 carregada no quadro 12.
+# Entrada [Página: 6, Quadro: 12] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 1621
+Endereço Físico: 3157
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 42433 ---
+Número da Página: 165   Deslocamento: 193
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 165 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 12 no quadro 13.
+# Página 165 carregada no quadro 13.
+# Entrada [Página: 165, Quadro: 13] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 42433
+Endereço Físico: 3521
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 5094 ---
+Número da Página: 19   Deslocamento: 230
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 19 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 211 no quadro 14.
+# Página 19 carregada no quadro 14.
+# Entrada [Página: 19, Quadro: 14] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 5094
+Endereço Físico: 3814
+Valor do Byte: 4
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 24558 ---
+Número da Página: 95   Deslocamento: 238
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 95 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 245 no quadro 15.
+# Página 95 carregada no quadro 15.
+# Entrada [Página: 95, Quadro: 15] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 24558
+Endereço Físico: 4078
+Valor do Byte: 23
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 57486 ---
+Número da Página: 224   Deslocamento: 142
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 224 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 169 no quadro 0.
+# Página 224 carregada no quadro 0.
+# Entrada [Página: 224, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 57486
+Endereço Físico: 142
+Valor do Byte: 56
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 53577 ---
+Número da Página: 209   Deslocamento: 73
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 209 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 2 no quadro 1.
+# Página 209 carregada no quadro 1.
+# Entrada [Página: 209, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 53577
+Endereço Físico: 329
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 20485 ---
+Número da Página: 80   Deslocamento: 5
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 80 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 94 no quadro 2.
+# Página 80 carregada no quadro 2.
+# Entrada [Página: 80, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 20485
+Endereço Físico: 517
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 21045 ---
+Número da Página: 82   Deslocamento: 53
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 82 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 72 no quadro 3.
+# Página 82 carregada no quadro 3.
+# Entrada [Página: 82, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 21045
+Endereço Físico: 821
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 8957 ---
+Número da Página: 34   Deslocamento: 253
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 34 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 96 no quadro 4.
+# Página 34 carregada no quadro 4.
+# Entrada [Página: 34, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 8957
+Endereço Físico: 1277
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 34070 ---
+Número da Página: 133   Deslocamento: 22
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 133 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 14 no quadro 5.
+# Página 133 carregada no quadro 5.
+# Entrada [Página: 133, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 34070
+Endereço Físico: 1302
+Valor do Byte: 33
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 5340 ---
+Número da Página: 20   Deslocamento: 220
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 20 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 158 no quadro 6.
+# Página 20 carregada no quadro 6.
+# Entrada [Página: 20, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 5340
+Endereço Físico: 1756
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 16385 ---
+Número da Página: 64   Deslocamento: 1
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 64 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 246 no quadro 7.
+# Página 64 carregada no quadro 7.
+# Entrada [Página: 64, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 16385
+Endereço Físico: 1793
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 6242 ---
+Número da Página: 24   Deslocamento: 98
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 24 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 47 no quadro 8.
+# Página 24 carregada no quadro 8.
+# Entrada [Página: 24, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 6242
+Endereço Físico: 2146
+Valor do Byte: 6
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 30851 ---
+Número da Página: 120   Deslocamento: 131
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 120 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 118 no quadro 9.
+# Página 120 carregada no quadro 9.
+# Entrada [Página: 120, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 30851
+Endereço Físico: 2435
+Valor do Byte: 32
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 53641 ---
+Número da Página: 209   Deslocamento: 137
+# TLB Hit --> Página 209 está no quadro 1.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 53641
+Endereço Físico: 393
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 13583 ---
+Número da Página: 53   Deslocamento: 15
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 53 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 153 no quadro 10.
+# Página 53 carregada no quadro 10.
+# Entrada [Página: 53, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 13583
+Endereço Físico: 2575
+Valor do Byte: 67
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 6640 ---
+Número da Página: 25   Deslocamento: 240
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 25 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 233 no quadro 11.
+# Página 25 carregada no quadro 11.
+# Entrada [Página: 25, Quadro: 11] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 6640
+Endereço Físico: 3056
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 27757 ---
+Número da Página: 108   Deslocamento: 109
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 108 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 6 no quadro 12.
+# Página 108 carregada no quadro 12.
+# Entrada [Página: 108, Quadro: 12] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 27757
+Endereço Físico: 3181
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 16095 ---
+Número da Página: 62   Deslocamento: 223
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 62 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 165 no quadro 13.
+# Página 62 carregada no quadro 13.
+# Entrada [Página: 62, Quadro: 13] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 16095
+Endereço Físico: 3551
+Valor do Byte: 183
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 11618 ---
+Número da Página: 45   Deslocamento: 98
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 45 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 19 no quadro 14.
+# Página 45 carregada no quadro 14.
+# Entrada [Página: 45, Quadro: 14] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 11618
+Endereço Físico: 3682
+Valor do Byte: 11
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 25201 ---
+Número da Página: 98   Deslocamento: 113
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 98 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 95 no quadro 15.
+# Página 98 carregada no quadro 15.
+# Entrada [Página: 98, Quadro: 15] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 25201
+Endereço Físico: 3953
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 12542 ---
+Número da Página: 48   Deslocamento: 254
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 48 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 224 no quadro 0.
+# Página 48 carregada no quadro 0.
+# Entrada [Página: 48, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 12542
+Endereço Físico: 254
+Valor do Byte: 12
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 32643 ---
+Número da Página: 127   Deslocamento: 131
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 127 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 209 no quadro 1.
+# Página 127 carregada no quadro 1.
+# Entrada [Página: 127, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 32643
+Endereço Físico: 387
+Valor do Byte: 224
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 59395 ---
+Número da Página: 232   Deslocamento: 3
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 232 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 80 no quadro 2.
+# Página 232 carregada no quadro 2.
+# Entrada [Página: 232, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 59395
+Endereço Físico: 515
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 13669 ---
+Número da Página: 53   Deslocamento: 101
+# TLB Hit --> Página 53 está no quadro 10.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 13669
+Endereço Físico: 2661
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 37638 ---
+Número da Página: 147   Deslocamento: 6
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 147 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 82 no quadro 3.
+# Página 147 carregada no quadro 3.
+# Entrada [Página: 147, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 37638
+Endereço Físico: 774
+Valor do Byte: 36
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 20913 ---
+Número da Página: 81   Deslocamento: 177
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 81 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 34 no quadro 4.
+# Página 81 carregada no quadro 4.
+# Entrada [Página: 81, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 20913
+Endereço Físico: 1201
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 11342 ---
+Número da Página: 44   Deslocamento: 78
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 44 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 133 no quadro 5.
+# Página 44 carregada no quadro 5.
+# Entrada [Página: 44, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 11342
+Endereço Físico: 1358
+Valor do Byte: 11
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 62541 ---
+Número da Página: 244   Deslocamento: 77
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 244 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 20 no quadro 6.
+# Página 244 carregada no quadro 6.
+# Entrada [Página: 244, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 62541
+Endereço Físico: 1613
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 23240 ---
+Número da Página: 90   Deslocamento: 200
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 90 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 64 no quadro 7.
+# Página 90 carregada no quadro 7.
+# Entrada [Página: 90, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 23240
+Endereço Físico: 1992
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 31769 ---
+Número da Página: 124   Deslocamento: 25
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 124 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 24 no quadro 8.
+# Página 124 carregada no quadro 8.
+# Entrada [Página: 124, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 31769
+Endereço Físico: 2073
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 63567 ---
+Número da Página: 248   Deslocamento: 79
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 248 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 120 no quadro 9.
+# Página 248 carregada no quadro 9.
+# Entrada [Página: 248, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 63567
+Endereço Físico: 2383
+Valor do Byte: 19
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 25823 ---
+Número da Página: 100   Deslocamento: 223
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 100 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 53 no quadro 10.
+# Página 100 carregada no quadro 10.
+# Entrada [Página: 100, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 25823
+Endereço Físico: 2783
+Valor do Byte: 55
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 34766 ---
+Número da Página: 135   Deslocamento: 206
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 135 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 25 no quadro 11.
+# Página 135 carregada no quadro 11.
+# Entrada [Página: 135, Quadro: 11] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 34766
+Endereço Físico: 3022
+Valor do Byte: 33
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 7365 ---
+Número da Página: 28   Deslocamento: 197
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 28 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 108 no quadro 12.
+# Página 28 carregada no quadro 12.
+# Entrada [Página: 28, Quadro: 12] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 7365
+Endereço Físico: 3269
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 61867 ---
+Número da Página: 241   Deslocamento: 171
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 241 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 62 no quadro 13.
+# Página 241 carregada no quadro 13.
+# Entrada [Página: 241, Quadro: 13] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 61867
+Endereço Físico: 3499
+Valor do Byte: 106
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 14993 ---
+Número da Página: 58   Deslocamento: 145
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 58 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 45 no quadro 14.
+# Página 58 carregada no quadro 14.
+# Entrada [Página: 58, Quadro: 14] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 14993
+Endereço Físico: 3729
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 35124 ---
+Número da Página: 137   Deslocamento: 52
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 137 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 98 no quadro 15.
+# Página 137 carregada no quadro 15.
+# Entrada [Página: 137, Quadro: 15] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 35124
+Endereço Físico: 3892
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 37280 ---
+Número da Página: 145   Deslocamento: 160
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 145 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 48 no quadro 0.
+# Página 145 carregada no quadro 0.
+# Entrada [Página: 145, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 37280
+Endereço Físico: 160
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 29545 ---
+Número da Página: 115   Deslocamento: 105
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 115 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 127 no quadro 1.
+# Página 115 carregada no quadro 1.
+# Entrada [Página: 115, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 29545
+Endereço Físico: 361
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 41531 ---
+Número da Página: 162   Deslocamento: 59
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 162 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 232 no quadro 2.
+# Página 162 carregada no quadro 2.
+# Entrada [Página: 162, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 41531
+Endereço Físico: 571
+Valor do Byte: 142
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 1632 ---
+Número da Página: 6   Deslocamento: 96
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 6 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 147 no quadro 3.
+# Página 6 carregada no quadro 3.
+# Entrada [Página: 6, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 1632
+Endereço Físico: 864
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 2379 ---
+Número da Página: 9   Deslocamento: 75
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 9 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 81 no quadro 4.
+# Página 9 carregada no quadro 4.
+# Entrada [Página: 9, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 2379
+Endereço Físico: 1099
+Valor do Byte: 82
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 16259 ---
+Número da Página: 63   Deslocamento: 131
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 63 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 44 no quadro 5.
+# Página 63 carregada no quadro 5.
+# Entrada [Página: 63, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 16259
+Endereço Físico: 1411
+Valor do Byte: 224
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 30573 ---
+Número da Página: 119   Deslocamento: 109
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 119 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 244 no quadro 6.
+# Página 119 carregada no quadro 6.
+# Entrada [Página: 119, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 30573
+Endereço Físico: 1645
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 12474 ---
+Número da Página: 48   Deslocamento: 186
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 48 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 90 no quadro 7.
+# Página 48 carregada no quadro 7.
+# Entrada [Página: 48, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 12474
+Endereço Físico: 1978
+Valor do Byte: 12
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 18450 ---
+Número da Página: 72   Deslocamento: 18
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 72 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 124 no quadro 8.
+# Página 72 carregada no quadro 8.
+# Entrada [Página: 72, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 18450
+Endereço Físico: 2066
+Valor do Byte: 18
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 61862 ---
+Número da Página: 241   Deslocamento: 166
+# TLB Hit --> Página 241 está no quadro 13.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 61862
+Endereço Físico: 3494
+Valor do Byte: 60
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 30829 ---
+Número da Página: 120   Deslocamento: 109
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 120 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 248 no quadro 9.
+# Página 120 carregada no quadro 9.
+# Entrada [Página: 120, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 30829
+Endereço Físico: 2413
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 17915 ---
+Número da Página: 69   Deslocamento: 251
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 69 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 100 no quadro 10.
+# Página 69 carregada no quadro 10.
+# Entrada [Página: 69, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 17915
+Endereço Físico: 2811
+Valor do Byte: 126
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 3135 ---
+Número da Página: 12   Deslocamento: 63
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 12 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 135 no quadro 11.
+# Página 12 carregada no quadro 11.
+# Entrada [Página: 12, Quadro: 11] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 3135
+Endereço Físico: 2879
+Valor do Byte: 15
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 13156 ---
+Número da Página: 51   Deslocamento: 100
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 51 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 28 no quadro 12.
+# Página 51 carregada no quadro 12.
+# Entrada [Página: 51, Quadro: 12] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 13156
+Endereço Físico: 3172
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 38294 ---
+Número da Página: 149   Deslocamento: 150
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 149 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 241 no quadro 13.
+# Página 149 carregada no quadro 13.
+# Entrada [Página: 149, Quadro: 13] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 38294
+Endereço Físico: 3478
+Valor do Byte: 37
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 608 ---
+Número da Página: 2   Deslocamento: 96
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 2 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 58 no quadro 14.
+# Página 2 carregada no quadro 14.
+# Entrada [Página: 2, Quadro: 14] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 608
+Endereço Físico: 3680
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 53181 ---
+Número da Página: 207   Deslocamento: 189
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 207 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 137 no quadro 15.
+# Página 207 carregada no quadro 15.
+# Entrada [Página: 207, Quadro: 15] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 53181
+Endereço Físico: 4029
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 9234 ---
+Número da Página: 36   Deslocamento: 18
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 36 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 145 no quadro 0.
+# Página 36 carregada no quadro 0.
+# Entrada [Página: 36, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 9234
+Endereço Físico: 18
+Valor do Byte: 9
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 8735 ---
+Número da Página: 34   Deslocamento: 31
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 34 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 115 no quadro 1.
+# Página 34 carregada no quadro 1.
+# Entrada [Página: 34, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 8735
+Endereço Físico: 287
+Valor do Byte: 135
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 57392 ---
+Número da Página: 224   Deslocamento: 48
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 224 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 162 no quadro 2.
+# Página 224 carregada no quadro 2.
+# Entrada [Página: 224, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 57392
+Endereço Físico: 560
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 45624 ---
+Número da Página: 178   Deslocamento: 56
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 178 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 6 no quadro 3.
+# Página 178 carregada no quadro 3.
+# Entrada [Página: 178, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 45624
+Endereço Físico: 824
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 17445 ---
+Número da Página: 68   Deslocamento: 37
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 68 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 9 no quadro 4.
+# Página 68 carregada no quadro 4.
+# Entrada [Página: 68, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 17445
+Endereço Físico: 1061
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 48143 ---
+Número da Página: 188   Deslocamento: 15
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 188 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 63 no quadro 5.
+# Página 188 carregada no quadro 5.
+# Entrada [Página: 188, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 48143
+Endereço Físico: 1295
+Valor do Byte: 3
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 17563 ---
+Número da Página: 68   Deslocamento: 155
+# TLB Hit --> Página 68 está no quadro 4.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 17563
+Endereço Físico: 1179
+Valor do Byte: 38
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 40522 ---
+Número da Página: 158   Deslocamento: 74
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 158 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 119 no quadro 6.
+# Página 158 carregada no quadro 6.
+# Entrada [Página: 158, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 40522
+Endereço Físico: 1610
+Valor do Byte: 39
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 21388 ---
+Número da Página: 83   Deslocamento: 140
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 83 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 48 no quadro 7.
+# Página 83 carregada no quadro 7.
+# Entrada [Página: 83, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 21388
+Endereço Físico: 1932
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 44077 ---
+Número da Página: 172   Deslocamento: 45
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 172 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 72 no quadro 8.
+# Página 172 carregada no quadro 8.
+# Entrada [Página: 172, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 44077
+Endereço Físico: 2093
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 7420 ---
+Número da Página: 28   Deslocamento: 252
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 28 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 120 no quadro 9.
+# Página 28 carregada no quadro 9.
+# Entrada [Página: 28, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 7420
+Endereço Físico: 2556
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 39295 ---
+Número da Página: 153   Deslocamento: 127
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 153 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 69 no quadro 10.
+# Página 153 carregada no quadro 10.
+# Entrada [Página: 153, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 39295
+Endereço Físico: 2687
+Valor do Byte: 95
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 64827 ---
+Número da Página: 253   Deslocamento: 59
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 253 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 12 no quadro 11.
+# Página 253 carregada no quadro 11.
+# Entrada [Página: 253, Quadro: 11] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 64827
+Endereço Físico: 2875
+Valor do Byte: 78
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 7894 ---
+Número da Página: 30   Deslocamento: 214
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 30 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 51 no quadro 12.
+# Página 30 carregada no quadro 12.
+# Entrada [Página: 30, Quadro: 12] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 7894
+Endereço Físico: 3286
+Valor do Byte: 7
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 6786 ---
+Número da Página: 26   Deslocamento: 130
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 26 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 149 no quadro 13.
+# Página 26 carregada no quadro 13.
+# Entrada [Página: 26, Quadro: 13] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 6786
+Endereço Físico: 3458
+Valor do Byte: 6
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 48879 ---
+Número da Página: 190   Deslocamento: 239
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 190 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 2 no quadro 14.
+# Página 190 carregada no quadro 14.
+# Entrada [Página: 190, Quadro: 14] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 48879
+Endereço Físico: 3823
+Valor do Byte: 187
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 11273 ---
+Número da Página: 44   Deslocamento: 9
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 44 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 207 no quadro 15.
+# Página 44 carregada no quadro 15.
+# Entrada [Página: 44, Quadro: 15] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 11273
+Endereço Físico: 3849
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 59278 ---
+Número da Página: 231   Deslocamento: 142
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 231 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 36 no quadro 0.
+# Página 231 carregada no quadro 0.
+# Entrada [Página: 231, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 59278
+Endereço Físico: 142
+Valor do Byte: 57
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 53527 ---
+Número da Página: 209   Deslocamento: 23
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 209 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 34 no quadro 1.
+# Página 209 carregada no quadro 1.
+# Entrada [Página: 209, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 53527
+Endereço Físico: 279
+Valor do Byte: 69
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 17374 ---
+Número da Página: 67   Deslocamento: 222
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 67 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 224 no quadro 2.
+# Página 67 carregada no quadro 2.
+# Entrada [Página: 67, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 17374
+Endereço Físico: 734
+Valor do Byte: 16
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 43805 ---
+Número da Página: 171   Deslocamento: 29
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 171 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 178 no quadro 3.
+# Página 171 carregada no quadro 3.
+# Entrada [Página: 171, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 43805
+Endereço Físico: 797
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 47967 ---
+Número da Página: 187   Deslocamento: 95
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 187 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 68 no quadro 4.
+# Página 187 carregada no quadro 4.
+# Entrada [Página: 187, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 47967
+Endereço Físico: 1119
+Valor do Byte: 215
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 24589 ---
+Número da Página: 96   Deslocamento: 13
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 96 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 188 no quadro 5.
+# Página 96 carregada no quadro 5.
+# Entrada [Página: 96, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 24589
+Endereço Físico: 1293
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 48264 ---
+Número da Página: 188   Deslocamento: 136
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 188 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 158 no quadro 6.
+# Página 188 carregada no quadro 6.
+# Entrada [Página: 188, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 48264
+Endereço Físico: 1672
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 60567 ---
+Número da Página: 236   Deslocamento: 151
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 236 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 83 no quadro 7.
+# Página 236 carregada no quadro 7.
+# Entrada [Página: 236, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 60567
+Endereço Físico: 1943
+Valor do Byte: 37
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 55205 ---
+Número da Página: 215   Deslocamento: 165
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 215 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 172 no quadro 8.
+# Página 215 carregada no quadro 8.
+# Entrada [Página: 215, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 55205
+Endereço Físico: 2213
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 44615 ---
+Número da Página: 174   Deslocamento: 71
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 174 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 28 no quadro 9.
+# Página 174 carregada no quadro 9.
+# Entrada [Página: 174, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 44615
+Endereço Físico: 2375
+Valor do Byte: 145
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 1554 ---
+Número da Página: 6   Deslocamento: 18
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 6 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 153 no quadro 10.
+# Página 6 carregada no quadro 10.
+# Entrada [Página: 6, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 1554
+Endereço Físico: 2578
+Valor do Byte: 1
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 20729 ---
+Número da Página: 80   Deslocamento: 249
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 80 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 253 no quadro 11.
+# Página 80 carregada no quadro 11.
+# Entrada [Página: 80, Quadro: 11] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 20729
+Endereço Físico: 3065
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 61690 ---
+Número da Página: 240   Deslocamento: 250
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 240 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 30 no quadro 12.
+# Página 240 carregada no quadro 12.
+# Entrada [Página: 240, Quadro: 12] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 61690
+Endereço Físico: 3322
+Valor do Byte: 60
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 20619 ---
+Número da Página: 80   Deslocamento: 139
+# TLB Hit --> Página 80 está no quadro 11.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 20619
+Endereço Físico: 2955
+Valor do Byte: 34
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 24214 ---
+Número da Página: 94   Deslocamento: 150
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 94 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 26 no quadro 13.
+# Página 94 carregada no quadro 13.
+# Entrada [Página: 94, Quadro: 13] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 24214
+Endereço Físico: 3478
+Valor do Byte: 23
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 49315 ---
+Número da Página: 192   Deslocamento: 163
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 192 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 190 no quadro 14.
+# Página 192 carregada no quadro 14.
+# Entrada [Página: 192, Quadro: 14] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 49315
+Endereço Físico: 3747
+Valor do Byte: 40
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 49580 ---
+Número da Página: 193   Deslocamento: 172
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 193 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 44 no quadro 15.
+# Página 193 carregada no quadro 15.
+# Entrada [Página: 193, Quadro: 15] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 49580
+Endereço Físico: 4012
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 51574 ---
+Número da Página: 201   Deslocamento: 118
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 201 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 231 no quadro 0.
+# Página 201 carregada no quadro 0.
+# Entrada [Página: 201, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 51574
+Endereço Físico: 118
+Valor do Byte: 50
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 4238 ---
+Número da Página: 16   Deslocamento: 142
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 16 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 209 no quadro 1.
+# Página 16 carregada no quadro 1.
+# Entrada [Página: 16, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 4238
+Endereço Físico: 398
+Valor do Byte: 4
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 45547 ---
+Número da Página: 177   Deslocamento: 235
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 177 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 67 no quadro 2.
+# Página 177 carregada no quadro 2.
+# Entrada [Página: 177, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 45547
+Endereço Físico: 747
+Valor do Byte: 122
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 56838 ---
+Número da Página: 222   Deslocamento: 6
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 222 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 171 no quadro 3.
+# Página 222 carregada no quadro 3.
+# Entrada [Página: 222, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 56838
+Endereço Físico: 774
+Valor do Byte: 55
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 56029 ---
+Número da Página: 218   Deslocamento: 221
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 218 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 187 no quadro 4.
+# Página 218 carregada no quadro 4.
+# Entrada [Página: 218, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 56029
+Endereço Físico: 1245
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 32564 ---
+Número da Página: 127   Deslocamento: 52
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 127 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 96 no quadro 5.
+# Página 127 carregada no quadro 5.
+# Entrada [Página: 127, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 32564
+Endereço Físico: 1332
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 48232 ---
+Número da Página: 188   Deslocamento: 104
+# TLB Hit --> Página 188 está no quadro 6.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 48232
+Endereço Físico: 1640
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 15165 ---
+Número da Página: 59   Deslocamento: 61
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 59 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 188 no quadro 6.
+# Página 59 carregada no quadro 6.
+# Entrada [Página: 59, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 15165
+Endereço Físico: 1597
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 9388 ---
+Número da Página: 36   Deslocamento: 172
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 36 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 236 no quadro 7.
+# Página 36 carregada no quadro 7.
+# Entrada [Página: 36, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 9388
+Endereço Físico: 1964
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 2400 ---
+Número da Página: 9   Deslocamento: 96
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 9 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 215 no quadro 8.
+# Página 9 carregada no quadro 8.
+# Entrada [Página: 9, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 2400
+Endereço Físico: 2144
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 29761 ---
+Número da Página: 116   Deslocamento: 65
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 116 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 174 no quadro 9.
+# Página 116 carregada no quadro 9.
+# Entrada [Página: 116, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 29761
+Endereço Físico: 2369
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 46041 ---
+Número da Página: 179   Deslocamento: 217
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 179 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 6 no quadro 10.
+# Página 179 carregada no quadro 10.
+# Entrada [Página: 179, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 46041
+Endereço Físico: 2777
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 29524 ---
+Número da Página: 115   Deslocamento: 84
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 115 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 80 no quadro 11.
+# Página 115 carregada no quadro 11.
+# Entrada [Página: 115, Quadro: 11] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 29524
+Endereço Físico: 2900
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 61477 ---
+Número da Página: 240   Deslocamento: 37
+# TLB Hit --> Página 240 está no quadro 12.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 61477
+Endereço Físico: 3109
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 35213 ---
+Número da Página: 137   Deslocamento: 141
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 137 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 240 no quadro 12.
+# Página 137 carregada no quadro 12.
+# Entrada [Página: 137, Quadro: 12] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 35213
+Endereço Físico: 3213
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 355 ---
+Número da Página: 1   Deslocamento: 99
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 1 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 94 no quadro 13.
+# Página 1 carregada no quadro 13.
+# Entrada [Página: 1, Quadro: 13] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 355
+Endereço Físico: 3427
+Valor do Byte: 88
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 32195 ---
+Número da Página: 125   Deslocamento: 195
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 125 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 192 no quadro 14.
+# Página 125 carregada no quadro 14.
+# Entrada [Página: 125, Quadro: 14] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 32195
+Endereço Físico: 3779
+Valor do Byte: 112
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 21681 ---
+Número da Página: 84   Deslocamento: 177
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 84 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 193 no quadro 15.
+# Página 84 carregada no quadro 15.
+# Entrada [Página: 84, Quadro: 15] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 21681
+Endereço Físico: 4017
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 7137 ---
+Número da Página: 27   Deslocamento: 225
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 27 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 201 no quadro 0.
+# Página 27 carregada no quadro 0.
+# Entrada [Página: 27, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 7137
+Endereço Físico: 225
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 18662 ---
+Número da Página: 72   Deslocamento: 230
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 72 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 16 no quadro 1.
+# Página 72 carregada no quadro 1.
+# Entrada [Página: 72, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 18662
+Endereço Físico: 486
+Valor do Byte: 18
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 7366 ---
+Número da Página: 28   Deslocamento: 198
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 28 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 177 no quadro 2.
+# Página 28 carregada no quadro 2.
+# Entrada [Página: 28, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 7366
+Endereço Físico: 710
+Valor do Byte: 7
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 6459 ---
+Número da Página: 25   Deslocamento: 59
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 25 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 222 no quadro 3.
+# Página 25 carregada no quadro 3.
+# Entrada [Página: 25, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 6459
+Endereço Físico: 827
+Valor do Byte: 78
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 17147 ---
+Número da Página: 66   Deslocamento: 251
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 66 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 218 no quadro 4.
+# Página 66 carregada no quadro 4.
+# Entrada [Página: 66, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 17147
+Endereço Físico: 1275
+Valor do Byte: 190
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 26329 ---
+Número da Página: 102   Deslocamento: 217
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 102 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 127 no quadro 5.
+# Página 102 carregada no quadro 5.
+# Entrada [Página: 102, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 26329
+Endereço Físico: 1497
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 5825 ---
+Número da Página: 22   Deslocamento: 193
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 22 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 59 no quadro 6.
+# Página 22 carregada no quadro 6.
+# Entrada [Página: 22, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 5825
+Endereço Físico: 1729
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 11223 ---
+Número da Página: 43   Deslocamento: 215
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 43 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 36 no quadro 7.
+# Página 43 carregada no quadro 7.
+# Entrada [Página: 43, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 11223
+Endereço Físico: 2007
+Valor do Byte: 245
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 55554 ---
+Número da Página: 217   Deslocamento: 2
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 217 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 9 no quadro 8.
+# Página 217 carregada no quadro 8.
+# Entrada [Página: 217, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 55554
+Endereço Físico: 2050
+Valor do Byte: 54
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 18777 ---
+Número da Página: 73   Deslocamento: 89
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 73 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 116 no quadro 9.
+# Página 73 carregada no quadro 9.
+# Entrada [Página: 73, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 18777
+Endereço Físico: 2393
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 34937 ---
+Número da Página: 136   Deslocamento: 121
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 136 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 179 no quadro 10.
+# Página 136 carregada no quadro 10.
+# Entrada [Página: 136, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 34937
+Endereço Físico: 2681
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 53018 ---
+Número da Página: 207   Deslocamento: 26
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 207 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 115 no quadro 11.
+# Página 207 carregada no quadro 11.
+# Entrada [Página: 207, Quadro: 11] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 53018
+Endereço Físico: 2842
+Valor do Byte: 51
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 16449 ---
+Número da Página: 64   Deslocamento: 65
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 64 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 137 no quadro 12.
+# Página 64 carregada no quadro 12.
+# Entrada [Página: 64, Quadro: 12] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 16449
+Endereço Físico: 3137
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 56749 ---
+Número da Página: 221   Deslocamento: 173
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 221 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 1 no quadro 13.
+# Página 221 carregada no quadro 13.
+# Entrada [Página: 221, Quadro: 13] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 56749
+Endereço Físico: 3501
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 8210 ---
+Número da Página: 32   Deslocamento: 18
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 32 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 125 no quadro 14.
+# Página 32 carregada no quadro 14.
+# Entrada [Página: 32, Quadro: 14] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 8210
+Endereço Físico: 3602
+Valor do Byte: 8
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 50928 ---
+Número da Página: 198   Deslocamento: 240
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 198 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 84 no quadro 15.
+# Página 198 carregada no quadro 15.
+# Entrada [Página: 198, Quadro: 15] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 50928
+Endereço Físico: 4080
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 17578 ---
+Número da Página: 68   Deslocamento: 170
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 68 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 27 no quadro 0.
+# Página 68 carregada no quadro 0.
+# Entrada [Página: 68, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 17578
+Endereço Físico: 170
+Valor do Byte: 17
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 44103 ---
+Número da Página: 172   Deslocamento: 71
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 172 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 72 no quadro 1.
+# Página 172 carregada no quadro 1.
+# Entrada [Página: 172, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 44103
+Endereço Físico: 327
+Valor do Byte: 17
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 30237 ---
+Número da Página: 118   Deslocamento: 29
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 118 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 28 no quadro 2.
+# Página 118 carregada no quadro 2.
+# Entrada [Página: 118, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 30237
+Endereço Físico: 541
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 33659 ---
+Número da Página: 131   Deslocamento: 123
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 131 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 25 no quadro 3.
+# Página 131 carregada no quadro 3.
+# Entrada [Página: 131, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 33659
+Endereço Físico: 891
+Valor do Byte: 222
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 15214 ---
+Número da Página: 59   Deslocamento: 110
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 59 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 66 no quadro 4.
+# Página 59 carregada no quadro 4.
+# Entrada [Página: 59, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 15214
+Endereço Físico: 1134
+Valor do Byte: 14
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 54825 ---
+Número da Página: 214   Deslocamento: 41
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 214 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 102 no quadro 5.
+# Página 214 carregada no quadro 5.
+# Entrada [Página: 214, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 54825
+Endereço Físico: 1321
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 7322 ---
+Número da Página: 28   Deslocamento: 154
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 28 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 22 no quadro 6.
+# Página 28 carregada no quadro 6.
+# Entrada [Página: 28, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 7322
+Endereço Físico: 1690
+Valor do Byte: 7
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 6852 ---
+Número da Página: 26   Deslocamento: 196
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 26 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 43 no quadro 7.
+# Página 26 carregada no quadro 7.
+# Entrada [Página: 26, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 6852
+Endereço Físico: 1988
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 8189 ---
+Número da Página: 31   Deslocamento: 253
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 31 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 217 no quadro 8.
+# Página 31 carregada no quadro 8.
+# Entrada [Página: 31, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 8189
+Endereço Físico: 2301
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 54193 ---
+Número da Página: 211   Deslocamento: 177
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 211 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 73 no quadro 9.
+# Página 211 carregada no quadro 9.
+# Entrada [Página: 211, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 54193
+Endereço Físico: 2481
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 40176 ---
+Número da Página: 156   Deslocamento: 240
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 156 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 136 no quadro 10.
+# Página 156 carregada no quadro 10.
+# Entrada [Página: 156, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 40176
+Endereço Físico: 2800
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 32864 ---
+Número da Página: 128   Deslocamento: 96
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 128 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 207 no quadro 11.
+# Página 128 carregada no quadro 11.
+# Entrada [Página: 128, Quadro: 11] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 32864
+Endereço Físico: 2912
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 16470 ---
+Número da Página: 64   Deslocamento: 86
+# TLB Hit --> Página 64 está no quadro 12.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 16470
+Endereço Físico: 3158
+Valor do Byte: 16
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 63497 ---
+Número da Página: 248   Deslocamento: 9
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 248 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 64 no quadro 12.
+# Página 248 carregada no quadro 12.
+# Entrada [Página: 248, Quadro: 12] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 63497
+Endereço Físico: 3081
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 46642 ---
+Número da Página: 182   Deslocamento: 50
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 182 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 221 no quadro 13.
+# Página 182 carregada no quadro 13.
+# Entrada [Página: 182, Quadro: 13] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 46642
+Endereço Físico: 3378
+Valor do Byte: 45
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 45272 ---
+Número da Página: 176   Deslocamento: 216
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 176 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 32 no quadro 14.
+# Página 176 carregada no quadro 14.
+# Entrada [Página: 176, Quadro: 14] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 45272
+Endereço Físico: 3800
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 58522 ---
+Número da Página: 228   Deslocamento: 154
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 228 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 198 no quadro 15.
+# Página 228 carregada no quadro 15.
+# Entrada [Página: 228, Quadro: 15] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 58522
+Endereço Físico: 3994
+Valor do Byte: 57
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 30829 ---
+Número da Página: 120   Deslocamento: 109
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 120 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 68 no quadro 0.
+# Página 120 carregada no quadro 0.
+# Entrada [Página: 120, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 30829
+Endereço Físico: 109
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 6252 ---
+Número da Página: 24   Deslocamento: 108
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 24 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 172 no quadro 1.
+# Página 24 carregada no quadro 1.
+# Entrada [Página: 24, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 6252
+Endereço Físico: 364
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 11960 ---
+Número da Página: 46   Deslocamento: 184
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 46 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 118 no quadro 2.
+# Página 46 carregada no quadro 2.
+# Entrada [Página: 46, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 11960
+Endereço Físico: 696
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 16751 ---
+Número da Página: 65   Deslocamento: 111
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 65 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 131 no quadro 3.
+# Página 65 carregada no quadro 3.
+# Entrada [Página: 65, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 16751
+Endereço Físico: 879
+Valor do Byte: 91
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 49013 ---
+Número da Página: 191   Deslocamento: 117
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 191 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 59 no quadro 4.
+# Página 191 carregada no quadro 4.
+# Entrada [Página: 191, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 49013
+Endereço Físico: 1141
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 31342 ---
+Número da Página: 122   Deslocamento: 110
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 122 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 214 no quadro 5.
+# Página 122 carregada no quadro 5.
+# Entrada [Página: 122, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 31342
+Endereço Físico: 1390
+Valor do Byte: 30
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 26084 ---
+Número da Página: 101   Deslocamento: 228
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 101 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 28 no quadro 6.
+# Página 101 carregada no quadro 6.
+# Entrada [Página: 101, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 26084
+Endereço Físico: 1764
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 21795 ---
+Número da Página: 85   Deslocamento: 35
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 85 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 26 no quadro 7.
+# Página 85 carregada no quadro 7.
+# Entrada [Página: 85, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 21795
+Endereço Físico: 1827
+Valor do Byte: 72
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 30420 ---
+Número da Página: 118   Deslocamento: 212
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 118 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 31 no quadro 8.
+# Página 118 carregada no quadro 8.
+# Entrada [Página: 118, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 30420
+Endereço Físico: 2260
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 33426 ---
+Número da Página: 130   Deslocamento: 146
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 130 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 211 no quadro 9.
+# Página 130 carregada no quadro 9.
+# Entrada [Página: 130, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 33426
+Endereço Físico: 2450
+Valor do Byte: 32
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 52669 ---
+Número da Página: 205   Deslocamento: 189
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 205 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 156 no quadro 10.
+# Página 205 carregada no quadro 10.
+# Entrada [Página: 205, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 52669
+Endereço Físico: 2749
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 239 ---
+Número da Página: 0   Deslocamento: 239
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 0 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 128 no quadro 11.
+# Página 0 carregada no quadro 11.
+# Entrada [Página: 0, Quadro: 11] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 239
+Endereço Físico: 3055
+Valor do Byte: 59
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 8027 ---
+Número da Página: 31   Deslocamento: 91
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 31 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 248 no quadro 12.
+# Página 31 carregada no quadro 12.
+# Entrada [Página: 31, Quadro: 12] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 8027
+Endereço Físico: 3163
+Valor do Byte: 214
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 7747 ---
+Número da Página: 30   Deslocamento: 67
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 30 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 182 no quadro 13.
+# Página 30 carregada no quadro 13.
+# Entrada [Página: 30, Quadro: 13] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 7747
+Endereço Físico: 3395
+Valor do Byte: 144
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 32532 ---
+Número da Página: 127   Deslocamento: 20
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 127 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 176 no quadro 14.
+# Página 127 carregada no quadro 14.
+# Entrada [Página: 127, Quadro: 14] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 32532
+Endereço Físico: 3604
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 46153 ---
+Número da Página: 180   Deslocamento: 73
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 180 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 228 no quadro 15.
+# Página 180 carregada no quadro 15.
+# Entrada [Página: 180, Quadro: 15] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 46153
+Endereço Físico: 3913
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 32177 ---
+Número da Página: 125   Deslocamento: 177
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 125 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 120 no quadro 0.
+# Página 125 carregada no quadro 0.
+# Entrada [Página: 125, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 32177
+Endereço Físico: 177
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 65457 ---
+Número da Página: 255   Deslocamento: 177
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 255 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 24 no quadro 1.
+# Página 255 carregada no quadro 1.
+# Entrada [Página: 255, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 65457
+Endereço Físico: 433
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 54311 ---
+Número da Página: 212   Deslocamento: 39
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 212 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 46 no quadro 2.
+# Página 212 carregada no quadro 2.
+# Entrada [Página: 212, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 54311
+Endereço Físico: 551
+Valor do Byte: 9
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 42845 ---
+Número da Página: 167   Deslocamento: 93
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 167 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 65 no quadro 3.
+# Página 167 carregada no quadro 3.
+# Entrada [Página: 167, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 42845
+Endereço Físico: 861
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 19024 ---
+Número da Página: 74   Deslocamento: 80
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 74 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 191 no quadro 4.
+# Página 74 carregada no quadro 4.
+# Entrada [Página: 74, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 19024
+Endereço Físico: 1104
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 10247 ---
+Número da Página: 40   Deslocamento: 7
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 40 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 122 no quadro 5.
+# Página 40 carregada no quadro 5.
+# Entrada [Página: 40, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 10247
+Endereço Físico: 1287
+Valor do Byte: 1
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 53573 ---
+Número da Página: 209   Deslocamento: 69
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 209 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 101 no quadro 6.
+# Página 209 carregada no quadro 6.
+# Entrada [Página: 209, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 53573
+Endereço Físico: 1605
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 17775 ---
+Número da Página: 69   Deslocamento: 111
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 69 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 85 no quadro 7.
+# Página 69 carregada no quadro 7.
+# Entrada [Página: 69, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 17775
+Endereço Físico: 1903
+Valor do Byte: 91
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 53850 ---
+Número da Página: 210   Deslocamento: 90
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 210 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 118 no quadro 8.
+# Página 210 carregada no quadro 8.
+# Entrada [Página: 210, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 53850
+Endereço Físico: 2138
+Valor do Byte: 52
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 36162 ---
+Número da Página: 141   Deslocamento: 66
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 141 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 130 no quadro 9.
+# Página 141 carregada no quadro 9.
+# Entrada [Página: 141, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 36162
+Endereço Físico: 2370
+Valor do Byte: 35
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 9185 ---
+Número da Página: 35   Deslocamento: 225
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 35 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 205 no quadro 10.
+# Página 35 carregada no quadro 10.
+# Entrada [Página: 35, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 9185
+Endereço Físico: 2785
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 46835 ---
+Número da Página: 182   Deslocamento: 243
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 182 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 0 no quadro 11.
+# Página 182 carregada no quadro 11.
+# Entrada [Página: 182, Quadro: 11] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 46835
+Endereço Físico: 3059
+Valor do Byte: 188
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 33824 ---
+Número da Página: 132   Deslocamento: 32
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 132 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 31 no quadro 12.
+# Página 132 carregada no quadro 12.
+# Entrada [Página: 132, Quadro: 12] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 33824
+Endereço Físico: 3104
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 16079 ---
+Número da Página: 62   Deslocamento: 207
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 62 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 30 no quadro 13.
+# Página 62 carregada no quadro 13.
+# Entrada [Página: 62, Quadro: 13] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 16079
+Endereço Físico: 3535
+Valor do Byte: 179
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 36765 ---
+Número da Página: 143   Deslocamento: 157
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 143 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 127 no quadro 14.
+# Página 143 carregada no quadro 14.
+# Entrada [Página: 143, Quadro: 14] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 36765
+Endereço Físico: 3741
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 25449 ---
+Número da Página: 99   Deslocamento: 105
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 99 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 180 no quadro 15.
+# Página 99 carregada no quadro 15.
+# Entrada [Página: 99, Quadro: 15] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 25449
+Endereço Físico: 3945
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 3425 ---
+Número da Página: 13   Deslocamento: 97
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 13 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 125 no quadro 0.
+# Página 13 carregada no quadro 0.
+# Entrada [Página: 13, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 3425
+Endereço Físico: 97
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 48235 ---
+Número da Página: 188   Deslocamento: 107
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 188 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 255 no quadro 1.
+# Página 188 carregada no quadro 1.
+# Entrada [Página: 188, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 48235
+Endereço Físico: 363
+Valor do Byte: 26
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 8903 ---
+Número da Página: 34   Deslocamento: 199
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 34 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 212 no quadro 2.
+# Página 34 carregada no quadro 2.
+# Entrada [Página: 34, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 8903
+Endereço Físico: 711
+Valor do Byte: 177
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 56541 ---
+Número da Página: 220   Deslocamento: 221
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 220 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 167 no quadro 3.
+# Página 220 carregada no quadro 3.
+# Entrada [Página: 220, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 56541
+Endereço Físico: 989
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 38860 ---
+Número da Página: 151   Deslocamento: 204
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 151 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 74 no quadro 4.
+# Página 151 carregada no quadro 4.
+# Entrada [Página: 151, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 38860
+Endereço Físico: 1228
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 37134 ---
+Número da Página: 145   Deslocamento: 14
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 145 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 40 no quadro 5.
+# Página 145 carregada no quadro 5.
+# Entrada [Página: 145, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 37134
+Endereço Físico: 1294
+Valor do Byte: 36
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 38833 ---
+Número da Página: 151   Deslocamento: 177
+# TLB Hit --> Página 151 está no quadro 4.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 38833
+Endereço Físico: 1201
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 23777 ---
+Número da Página: 92   Deslocamento: 225
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 92 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 209 no quadro 6.
+# Página 92 carregada no quadro 6.
+# Entrada [Página: 92, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 23777
+Endereço Físico: 1761
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 1862 ---
+Número da Página: 7   Deslocamento: 70
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 7 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 69 no quadro 7.
+# Página 7 carregada no quadro 7.
+# Entrada [Página: 7, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 1862
+Endereço Físico: 1862
+Valor do Byte: 1
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 15231 ---
+Número da Página: 59   Deslocamento: 127
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 59 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 210 no quadro 8.
+# Página 59 carregada no quadro 8.
+# Entrada [Página: 59, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 15231
+Endereço Físico: 2175
+Valor do Byte: 223
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 24985 ---
+Número da Página: 97   Deslocamento: 153
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 97 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 141 no quadro 9.
+# Página 97 carregada no quadro 9.
+# Entrada [Página: 97, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 24985
+Endereço Físico: 2457
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 47834 ---
+Número da Página: 186   Deslocamento: 218
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 186 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 35 no quadro 10.
+# Página 186 carregada no quadro 10.
+# Entrada [Página: 186, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 47834
+Endereço Físico: 2778
+Valor do Byte: 46
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 65120 ---
+Número da Página: 254   Deslocamento: 96
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 254 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 182 no quadro 11.
+# Página 254 carregada no quadro 11.
+# Entrada [Página: 254, Quadro: 11] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 65120
+Endereço Físico: 2912
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 63539 ---
+Número da Página: 248   Deslocamento: 51
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 248 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 132 no quadro 12.
+# Página 248 carregada no quadro 12.
+# Entrada [Página: 248, Quadro: 12] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 63539
+Endereço Físico: 3123
+Valor do Byte: 12
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 30236 ---
+Número da Página: 118   Deslocamento: 28
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 118 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 62 no quadro 13.
+# Página 118 carregada no quadro 13.
+# Entrada [Página: 118, Quadro: 13] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 30236
+Endereço Físico: 3356
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 8731 ---
+Número da Página: 34   Deslocamento: 27
+# TLB Hit --> Página 34 está no quadro 2.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 8731
+Endereço Físico: 539
+Valor do Byte: 134
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 42138 ---
+Número da Página: 164   Deslocamento: 154
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 164 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 143 no quadro 14.
+# Página 164 carregada no quadro 14.
+# Entrada [Página: 164, Quadro: 14] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 42138
+Endereço Físico: 3738
+Valor do Byte: 41
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 25286 ---
+Número da Página: 98   Deslocamento: 198
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 98 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 99 no quadro 15.
+# Página 98 carregada no quadro 15.
+# Entrada [Página: 98, Quadro: 15] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 25286
+Endereço Físico: 4038
+Valor do Byte: 24
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 6274 ---
+Número da Página: 24   Deslocamento: 130
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 24 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 13 no quadro 0.
+# Página 24 carregada no quadro 0.
+# Entrada [Página: 24, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 6274
+Endereço Físico: 130
+Valor do Byte: 6
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 64210 ---
+Número da Página: 250   Deslocamento: 210
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 250 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 188 no quadro 1.
+# Página 250 carregada no quadro 1.
+# Entrada [Página: 250, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 64210
+Endereço Físico: 466
+Valor do Byte: 62
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 23076 ---
+Número da Página: 90   Deslocamento: 36
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 90 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 34 no quadro 2.
+# Página 90 carregada no quadro 2.
+# Entrada [Página: 90, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 23076
+Endereço Físico: 548
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 14883 ---
+Número da Página: 58   Deslocamento: 35
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 58 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 220 no quadro 3.
+# Página 58 carregada no quadro 3.
+# Entrada [Página: 58, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 14883
+Endereço Físico: 803
+Valor do Byte: 136
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 21482 ---
+Número da Página: 83   Deslocamento: 234
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 83 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 151 no quadro 4.
+# Página 83 carregada no quadro 4.
+# Entrada [Página: 83, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 21482
+Endereço Físico: 1258
+Valor do Byte: 20
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 25107 ---
+Número da Página: 98   Deslocamento: 19
+# TLB Hit --> Página 98 está no quadro 15.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 25107
+Endereço Físico: 3859
+Valor do Byte: 132
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 62005 ---
+Número da Página: 242   Deslocamento: 53
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 242 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 145 no quadro 5.
+# Página 242 carregada no quadro 5.
+# Entrada [Página: 242, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 62005
+Endereço Físico: 1333
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 30513 ---
+Número da Página: 119   Deslocamento: 49
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 119 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 92 no quadro 6.
+# Página 119 carregada no quadro 6.
+# Entrada [Página: 119, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 30513
+Endereço Físico: 1585
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 15619 ---
+Número da Página: 61   Deslocamento: 3
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 61 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 7 no quadro 7.
+# Página 61 carregada no quadro 7.
+# Entrada [Página: 61, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 15619
+Endereço Físico: 1795
+Valor do Byte: 64
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 41452 ---
+Número da Página: 161   Deslocamento: 236
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 161 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 59 no quadro 8.
+# Página 161 carregada no quadro 8.
+# Entrada [Página: 161, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 41452
+Endereço Físico: 2284
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 57690 ---
+Número da Página: 225   Deslocamento: 90
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 225 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 97 no quadro 9.
+# Página 225 carregada no quadro 9.
+# Entrada [Página: 225, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 57690
+Endereço Físico: 2394
+Valor do Byte: 56
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 19154 ---
+Número da Página: 74   Deslocamento: 210
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 74 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 186 no quadro 10.
+# Página 74 carregada no quadro 10.
+# Entrada [Página: 74, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 19154
+Endereço Físico: 2770
+Valor do Byte: 18
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 21852 ---
+Número da Página: 85   Deslocamento: 92
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 85 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 254 no quadro 11.
+# Página 85 carregada no quadro 11.
+# Entrada [Página: 85, Quadro: 11] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 21852
+Endereço Físico: 2908
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 20616 ---
+Número da Página: 80   Deslocamento: 136
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 80 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 248 no quadro 12.
+# Página 80 carregada no quadro 12.
+# Entrada [Página: 80, Quadro: 12] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 20616
+Endereço Físico: 3208
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 35395 ---
+Número da Página: 138   Deslocamento: 67
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 138 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 118 no quadro 13.
+# Página 138 carregada no quadro 13.
+# Entrada [Página: 138, Quadro: 13] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 35395
+Endereço Físico: 3395
+Valor do Byte: 144
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 30661 ---
+Número da Página: 119   Deslocamento: 197
+# TLB Hit --> Página 119 está no quadro 6.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 30661
+Endereço Físico: 1733
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 11767 ---
+Número da Página: 45   Deslocamento: 247
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 45 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 164 no quadro 14.
+# Página 45 carregada no quadro 14.
+# Entrada [Página: 45, Quadro: 14] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 11767
+Endereço Físico: 3831
+Valor do Byte: 125
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 8 ---
+Número da Página: 0   Deslocamento: 8
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 0 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 98 no quadro 15.
+# Página 0 carregada no quadro 15.
+# Entrada [Página: 0, Quadro: 15] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 8
+Endereço Físico: 3848
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 60660 ---
+Número da Página: 236   Deslocamento: 244
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 236 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 24 no quadro 0.
+# Página 236 carregada no quadro 0.
+# Entrada [Página: 236, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 60660
+Endereço Físico: 244
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 47856 ---
+Número da Página: 186   Deslocamento: 240
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 186 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 250 no quadro 1.
+# Página 186 carregada no quadro 1.
+# Entrada [Página: 186, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 47856
+Endereço Físico: 496
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 34051 ---
+Número da Página: 133   Deslocamento: 3
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 133 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 90 no quadro 2.
+# Página 133 carregada no quadro 2.
+# Entrada [Página: 133, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 34051
+Endereço Físico: 515
+Valor do Byte: 64
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 19314 ---
+Número da Página: 75   Deslocamento: 114
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 75 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 58 no quadro 3.
+# Página 75 carregada no quadro 3.
+# Entrada [Página: 75, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 19314
+Endereço Físico: 882
+Valor do Byte: 18
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 46364 ---
+Número da Página: 181   Deslocamento: 28
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 181 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 83 no quadro 4.
+# Página 181 carregada no quadro 4.
+# Entrada [Página: 181, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 46364
+Endereço Físico: 1052
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 41637 ---
+Número da Página: 162   Deslocamento: 165
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 162 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 242 no quadro 5.
+# Página 162 carregada no quadro 5.
+# Entrada [Página: 162, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 41637
+Endereço Físico: 1445
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 1827 ---
+Número da Página: 7   Deslocamento: 35
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 7 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 119 no quadro 6.
+# Página 7 carregada no quadro 6.
+# Entrada [Página: 7, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 1827
+Endereço Físico: 1571
+Valor do Byte: 200
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 42304 ---
+Número da Página: 165   Deslocamento: 64
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 165 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 61 no quadro 7.
+# Página 165 carregada no quadro 7.
+# Entrada [Página: 165, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 42304
+Endereço Físico: 1856
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 58706 ---
+Número da Página: 229   Deslocamento: 82
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 229 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 161 no quadro 8.
+# Página 229 carregada no quadro 8.
+# Entrada [Página: 229, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 58706
+Endereço Físico: 2130
+Valor do Byte: 57
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 19447 ---
+Número da Página: 75   Deslocamento: 247
+# TLB Hit --> Página 75 está no quadro 3.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 19447
+Endereço Físico: 1015
+Valor do Byte: 253
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 38383 ---
+Número da Página: 149   Deslocamento: 239
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 149 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 225 no quadro 9.
+# Página 149 carregada no quadro 9.
+# Entrada [Página: 149, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 38383
+Endereço Físico: 2543
+Valor do Byte: 123
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 58399 ---
+Número da Página: 228   Deslocamento: 31
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 228 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 74 no quadro 10.
+# Página 228 carregada no quadro 10.
+# Entrada [Página: 228, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 58399
+Endereço Físico: 2591
+Valor do Byte: 7
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 13967 ---
+Número da Página: 54   Deslocamento: 143
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 54 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 85 no quadro 11.
+# Página 54 carregada no quadro 11.
+# Entrada [Página: 54, Quadro: 11] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 13967
+Endereço Físico: 2959
+Valor do Byte: 163
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 3236 ---
+Número da Página: 12   Deslocamento: 164
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 12 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 80 no quadro 12.
+# Página 12 carregada no quadro 12.
+# Entrada [Página: 12, Quadro: 12] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 3236
+Endereço Físico: 3236
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 17744 ---
+Número da Página: 69   Deslocamento: 80
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 69 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 138 no quadro 13.
+# Página 69 carregada no quadro 13.
+# Entrada [Página: 69, Quadro: 13] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 17744
+Endereço Físico: 3408
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 40998 ---
+Número da Página: 160   Deslocamento: 38
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 160 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 45 no quadro 14.
+# Página 160 carregada no quadro 14.
+# Entrada [Página: 160, Quadro: 14] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 40998
+Endereço Físico: 3622
+Valor do Byte: 40
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 48221 ---
+Número da Página: 188   Deslocamento: 93
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 188 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 0 no quadro 15.
+# Página 188 carregada no quadro 15.
+# Entrada [Página: 188, Quadro: 15] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 48221
+Endereço Físico: 3933
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 30730 ---
+Número da Página: 120   Deslocamento: 10
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 120 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 236 no quadro 0.
+# Página 120 carregada no quadro 0.
+# Entrada [Página: 120, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 30730
+Endereço Físico: 10
+Valor do Byte: 30
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 10356 ---
+Número da Página: 40   Deslocamento: 116
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 40 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 186 no quadro 1.
+# Página 40 carregada no quadro 1.
+# Entrada [Página: 40, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 10356
+Endereço Físico: 372
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 1795 ---
+Número da Página: 7   Deslocamento: 3
+# TLB Hit --> Página 7 está no quadro 6.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 1795
+Endereço Físico: 1539
+Valor do Byte: 192
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 17135 ---
+Número da Página: 66   Deslocamento: 239
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 66 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 133 no quadro 2.
+# Página 66 carregada no quadro 2.
+# Entrada [Página: 66, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 17135
+Endereço Físico: 751
+Valor do Byte: 187
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 36786 ---
+Número da Página: 143   Deslocamento: 178
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 143 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 75 no quadro 3.
+# Página 143 carregada no quadro 3.
+# Entrada [Página: 143, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 36786
+Endereço Físico: 946
+Valor do Byte: 35
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 63992 ---
+Número da Página: 249   Deslocamento: 248
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 249 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 181 no quadro 4.
+# Página 249 carregada no quadro 4.
+# Entrada [Página: 249, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 63992
+Endereço Físico: 1272
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 2807 ---
+Número da Página: 10   Deslocamento: 247
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 10 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 162 no quadro 5.
+# Página 10 carregada no quadro 5.
+# Entrada [Página: 10, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 2807
+Endereço Físico: 1527
+Valor do Byte: 189
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 4667 ---
+Número da Página: 18   Deslocamento: 59
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 18 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 7 no quadro 6.
+# Página 18 carregada no quadro 6.
+# Entrada [Página: 18, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 4667
+Endereço Físico: 1595
+Valor do Byte: 142
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 27812 ---
+Número da Página: 108   Deslocamento: 164
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 108 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 165 no quadro 7.
+# Página 108 carregada no quadro 7.
+# Entrada [Página: 108, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 27812
+Endereço Físico: 1956
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 64519 ---
+Número da Página: 252   Deslocamento: 7
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 252 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 229 no quadro 8.
+# Página 252 carregada no quadro 8.
+# Entrada [Página: 252, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 64519
+Endereço Físico: 2055
+Valor do Byte: 1
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 40409 ---
+Número da Página: 157   Deslocamento: 217
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 157 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 149 no quadro 9.
+# Página 157 carregada no quadro 9.
+# Entrada [Página: 157, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 40409
+Endereço Físico: 2521
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 42582 ---
+Número da Página: 166   Deslocamento: 86
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 166 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 228 no quadro 10.
+# Página 166 carregada no quadro 10.
+# Entrada [Página: 166, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 42582
+Endereço Físico: 2646
+Valor do Byte: 41
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 35918 ---
+Número da Página: 140   Deslocamento: 78
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 140 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 54 no quadro 11.
+# Página 140 carregada no quadro 11.
+# Entrada [Página: 140, Quadro: 11] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 35918
+Endereço Físico: 2894
+Valor do Byte: 35
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 55011 ---
+Número da Página: 214   Deslocamento: 227
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 214 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 12 no quadro 12.
+# Página 214 carregada no quadro 12.
+# Entrada [Página: 214, Quadro: 12] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 55011
+Endereço Físico: 3299
+Valor do Byte: 184
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 38328 ---
+Número da Página: 149   Deslocamento: 184
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 149 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 69 no quadro 13.
+# Página 149 carregada no quadro 13.
+# Entrada [Página: 149, Quadro: 13] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 38328
+Endereço Físico: 3512
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 12661 ---
+Número da Página: 49   Deslocamento: 117
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 49 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 160 no quadro 14.
+# Página 49 carregada no quadro 14.
+# Entrada [Página: 49, Quadro: 14] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 12661
+Endereço Físico: 3701
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 11097 ---
+Número da Página: 43   Deslocamento: 89
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 43 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 188 no quadro 15.
+# Página 43 carregada no quadro 15.
+# Entrada [Página: 43, Quadro: 15] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 11097
+Endereço Físico: 3929
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 37991 ---
+Número da Página: 148   Deslocamento: 103
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 148 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 120 no quadro 0.
+# Página 148 carregada no quadro 0.
+# Entrada [Página: 148, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 37991
+Endereço Físico: 103
+Valor do Byte: 25
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 54578 ---
+Número da Página: 213   Deslocamento: 50
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 213 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 40 no quadro 1.
+# Página 213 carregada no quadro 1.
+# Entrada [Página: 213, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 54578
+Endereço Físico: 306
+Valor do Byte: 53
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 44088 ---
+Número da Página: 172   Deslocamento: 56
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 172 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 66 no quadro 2.
+# Página 172 carregada no quadro 2.
+# Entrada [Página: 172, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 44088
+Endereço Físico: 568
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 32892 ---
+Número da Página: 128   Deslocamento: 124
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 128 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 143 no quadro 3.
+# Página 128 carregada no quadro 3.
+# Entrada [Página: 128, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 32892
+Endereço Físico: 892
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 47809 ---
+Número da Página: 186   Deslocamento: 193
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 186 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 249 no quadro 4.
+# Página 186 carregada no quadro 4.
+# Entrada [Página: 186, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 47809
+Endereço Físico: 1217
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 35710 ---
+Número da Página: 139   Deslocamento: 126
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 139 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 10 no quadro 5.
+# Página 139 carregada no quadro 5.
+# Entrada [Página: 139, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 35710
+Endereço Físico: 1406
+Valor do Byte: 34
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 33878 ---
+Número da Página: 132   Deslocamento: 86
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 132 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 18 no quadro 6.
+# Página 132 carregada no quadro 6.
+# Entrada [Página: 132, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 33878
+Endereço Físico: 1622
+Valor do Byte: 33
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 43375 ---
+Número da Página: 169   Deslocamento: 111
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 169 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 108 no quadro 7.
+# Página 169 carregada no quadro 7.
+# Entrada [Página: 169, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 43375
+Endereço Físico: 1903
+Valor do Byte: 91
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 14386 ---
+Número da Página: 56   Deslocamento: 50
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 56 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 252 no quadro 8.
+# Página 56 carregada no quadro 8.
+# Entrada [Página: 56, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 14386
+Endereço Físico: 2098
+Valor do Byte: 14
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 14041 ---
+Número da Página: 54   Deslocamento: 217
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 54 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 157 no quadro 9.
+# Página 54 carregada no quadro 9.
+# Entrada [Página: 54, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 14041
+Endereço Físico: 2521
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 21169 ---
+Número da Página: 82   Deslocamento: 177
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 82 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 166 no quadro 10.
+# Página 82 carregada no quadro 10.
+# Entrada [Página: 82, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 21169
+Endereço Físico: 2737
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 58927 ---
+Número da Página: 230   Deslocamento: 47
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 230 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 140 no quadro 11.
+# Página 230 carregada no quadro 11.
+# Entrada [Página: 230, Quadro: 11] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 58927
+Endereço Físico: 2863
+Valor do Byte: 139
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 33465 ---
+Número da Página: 130   Deslocamento: 185
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 130 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 214 no quadro 12.
+# Página 130 carregada no quadro 12.
+# Entrada [Página: 130, Quadro: 12] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 33465
+Endereço Físico: 3257
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 51559 ---
+Número da Página: 201   Deslocamento: 103
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 201 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 149 no quadro 13.
+# Página 201 carregada no quadro 13.
+# Entrada [Página: 201, Quadro: 13] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 51559
+Endereço Físico: 3431
+Valor do Byte: 89
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 11842 ---
+Número da Página: 46   Deslocamento: 66
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 46 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 49 no quadro 14.
+# Página 46 carregada no quadro 14.
+# Entrada [Página: 46, Quadro: 14] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 11842
+Endereço Físico: 3650
+Valor do Byte: 11
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 61204 ---
+Número da Página: 239   Deslocamento: 20
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 239 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 43 no quadro 15.
+# Página 239 carregada no quadro 15.
+# Entrada [Página: 239, Quadro: 15] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 61204
+Endereço Físico: 3860
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 16185 ---
+Número da Página: 63   Deslocamento: 57
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 63 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 148 no quadro 0.
+# Página 63 carregada no quadro 0.
+# Entrada [Página: 63, Quadro: 0] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 16185
+Endereço Físico: 57
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 27746 ---
+Número da Página: 108   Deslocamento: 98
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 108 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 213 no quadro 1.
+# Página 108 carregada no quadro 1.
+# Entrada [Página: 108, Quadro: 1] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 27746
+Endereço Físico: 354
+Valor do Byte: 27
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 4001 ---
+Número da Página: 15   Deslocamento: 161
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 15 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 172 no quadro 2.
+# Página 15 carregada no quadro 2.
+# Entrada [Página: 15, Quadro: 2] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 4001
+Endereço Físico: 673
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 1518 ---
+Número da Página: 5   Deslocamento: 238
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 5 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 128 no quadro 3.
+# Página 5 carregada no quadro 3.
+# Entrada [Página: 5, Quadro: 3] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 1518
+Endereço Físico: 1006
+Valor do Byte: 1
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 7501 ---
+Número da Página: 29   Deslocamento: 77
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 29 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 186 no quadro 4.
+# Página 29 carregada no quadro 4.
+# Entrada [Página: 29, Quadro: 4] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 7501
+Endereço Físico: 1101
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 60142 ---
+Número da Página: 234   Deslocamento: 238
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 234 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 139 no quadro 5.
+# Página 234 carregada no quadro 5.
+# Entrada [Página: 234, Quadro: 5] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 60142
+Endereço Físico: 1518
+Valor do Byte: 58
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 42321 ---
+Número da Página: 165   Deslocamento: 81
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 165 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 132 no quadro 6.
+# Página 165 carregada no quadro 6.
+# Entrada [Página: 165, Quadro: 6] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 42321
+Endereço Físico: 1617
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 55117 ---
+Número da Página: 215   Deslocamento: 77
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 215 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 169 no quadro 7.
+# Página 215 carregada no quadro 7.
+# Entrada [Página: 215, Quadro: 7] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 55117
+Endereço Físico: 1869
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 63084 ---
+Número da Página: 246   Deslocamento: 108
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 246 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 56 no quadro 8.
+# Página 246 carregada no quadro 8.
+# Entrada [Página: 246, Quadro: 8] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 63084
+Endereço Físico: 2156
+Valor do Byte: 0
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 6474 ---
+Número da Página: 25   Deslocamento: 74
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 25 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 54 no quadro 9.
+# Página 25 carregada no quadro 9.
+# Entrada [Página: 25, Quadro: 9] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 6474
+Endereço Físico: 2378
+Valor do Byte: 6
+-----------------------------
+
+
+--- Traduzindo Endereço Lógico: 46357 ---
+Número da Página: 181   Deslocamento: 21
+# TLB Miss
+# FALHA DE PÁGINA
+# Carregando página 181 do 'BACKING_STORE.bin'.
+# Memória cheia. Substituindo página 82 no quadro 10.
+# Página 181 carregada no quadro 10.
+# Entrada [Página: 181, Quadro: 10] atualizada na TLB.
+
+--- RESULTADO DA TRADUÇÃO ---
+Endereço Lógico: 46357
+Endereço Físico: 2581
+Valor do Byte: 0
+-----------------------------
+
+
+========== ESTATÍSTICAS ==========
+Total de endereços traduzidos: 300
+Total de falhas de páginas: 283 (94.33%)
+Total de acertos na TLB: 17 (5.67%)
