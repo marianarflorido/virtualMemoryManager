@@ -52,15 +52,15 @@ def translateAddress(logicalAddress):
     print(f"Número da Página: {pageNumber}   Deslocamento: {offset}")
 
     # Verificar a TLB
-    frameNumber = -1
+    frameNumber = -1 #marca que não foi encontrado
     for tlbPage, tlbFrame in tlb:
         if tlbPage == pageNumber:
-            frameNumber = tlbFrame
+            frameNumber = tlbFrame # se encontrado atualiza
             tlbHits += 1
             print(f"# TLB Hit --> Página {pageNumber} está no quadro {frameNumber}.")
             break
     
-    if frameNumber == -1:
+    if frameNumber == -1: #se não encontrado tlb miss
 
         print("# TLB Miss")
         
